@@ -75,10 +75,10 @@ h2{
 
 .portait{
   border-radius: 35%;
-  max-width: 150px;
+  max-width: 200px;
   margin: auto;
   display: block;
-  margin-bottom: 50px;
+  margin-bottom: 15px
 }
 .pinasse{
     border-radius: 100%;
