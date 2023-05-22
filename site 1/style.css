@@ -82,10 +82,10 @@ h2{
 }
 .pinasse{
     border-radius: 100%;
-    max-width: 300px;
+    max-width:400px;
     display: block;
     margin-bottom: 5px;
-    margin-left: 400
+    margin-left: 300px;
 }
 
 .skills{
